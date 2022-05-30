@@ -4,7 +4,7 @@ Added command-line switch:
 
 ![01-PortableSwitchInTheCommandsList](https://user-images.githubusercontent.com/61757638/171054185-0659b4c9-0d58-46c8-afcf-251242bdbd6b.png)
 
-Now you will see whole text of the description:
+Now you will see whole text of the description (and if you click on the description blue text - it changes the type of installation for above type):
 
 ![02-ChoosePage](https://user-images.githubusercontent.com/61757638/171054233-45f2afdd-da93-45d3-a18d-356f8d179280.png)
 
