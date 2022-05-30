@@ -20,7 +20,7 @@ Portable extraction full:
 
 ![05-Portable2](https://user-images.githubusercontent.com/61757638/171054279-41d316f6-3250-465a-8a59-57c8e7aa5060.png)
 
-Disabled the Quick-Launch task from Windows 7:
+Disabled the Quick-Launch task from Windows 7 and up:
 
 ![06-QuickLaunch](https://user-images.githubusercontent.com/61757638/171054286-e59e10aa-7078-4059-90e4-09b2b46ade7a.png)
 
