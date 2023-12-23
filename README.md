@@ -26,4 +26,4 @@ Disabled the Quick-Launch task from Windows 7 and up:
 
 ![07-ReadyToInstall](https://user-images.githubusercontent.com/61757638/171054299-7adddab1-a070-480b-8d66-e166977b7901.png)
 
-https://github.com/Wilenty/BCUninstaller/releases/tag/v5.3
+[https://github.com/Wilenty/BCUninstaller/releases/latest](https://github.com/Wilenty/BCUninstaller/releases/latest)
