@@ -1,5 +1,8 @@
 # BCUninstaller
 
+[![Total Downloads](https://img.shields.io/github/downloads/Wilenty/BCUninstaller/total.svg)](https://github.com/Wilenty/BCUninstaller/releases)
+[![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/BCUninstaller/latest/total.svg)](https://github.com/Wilenty/BCUninstaller/releases/latest)
+
 Added command-line switch:
 
 ![01-PortableSwitchInTheCommandsList](https://user-images.githubusercontent.com/61757638/171054185-0659b4c9-0d58-46c8-afcf-251242bdbd6b.png)
