@@ -1,5 +1,6 @@
 # BCUninstaller
 
+[![Latest Version](https://img.shields.io/github/release/Wilenty/BCUninstaller.svg)](https://github.com/Wilenty/BCUninstaller/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/Wilenty/BCUninstaller/total.svg)](https://github.com/Wilenty/BCUninstaller/releases)
 [![Latest Release Downloads](https://img.shields.io/github/downloads/Wilenty/BCUninstaller/latest/total.svg)](https://github.com/Wilenty/BCUninstaller/releases/latest)
 
